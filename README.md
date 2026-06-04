@@ -18,9 +18,15 @@ Nova is a modern mobile banking application designed to provide users with a sim
 ## Tools Used
 
 - Figma
-- UX Research
 - Wireframing
 - Prototyping
+
+## Concepts Learned
+
+- Responsive Mobile Layout
+- Color Theory and Accessibility
+- Wireframing and High-Fidelity Design
+- Interactive Prototyping
 
 ## Figma Prototype
 
