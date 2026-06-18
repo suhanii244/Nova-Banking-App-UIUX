@@ -1,5 +1,5 @@
 # Nova-Banking-App-UIUX
-A modern mobile banking app UI/UX design created in Figma.
+A modern mobile banking app UI/UX designed in Figma.
 
 ## Overview
 
